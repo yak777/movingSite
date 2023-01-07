@@ -7,10 +7,8 @@
 /*/---- Header begins ----/*/
 .header {
     // max-height: 100vh;
-    min-height: 100vh;
-    @media only screen and (max-height: 450px) {
-        height: 600px;
-    }
+    min-height: 50vh;
+    
     background-image: url(../img/header-bg.png);
     background-position: center;
     background-size: cover;
